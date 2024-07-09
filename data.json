@@ -3,7 +3,7 @@
     "restaurants": [
         "ODDS(中環)", "鮨千寿(將軍澳)", "鮨穴(銅鑼灣)",
         "鮨之(旺角)", "鳥十(大圍)", "穴寿司(元朗YOHO)",
-        "穴居酒屋(沙田)", "穴藏(九龍塘)", "穴之酒販(將軍澳)","穴之酒販(將軍澳)",
+        "穴居酒屋(沙田)", "穴藏(九龍塘)", "穴之酒販(將軍澳)","穴居酒屋(奧海城)",
         "天穴(尖沙咀)"
     ],
     "suppliers": ["SAKE-X", "GOGO FOODS", "真澄"],
@@ -318,6 +318,36 @@
             ]
         },
         "穴之酒販(將軍澳)": {
+            "SAKE-X": [
+                {"key": "product01", "name": "豐之秋 GOLD LABEL 300ML"},
+                {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
+                {"key": "product03", "name": "月不見の池 吟釀 生貯藏 300ML"},
+                {"key": "product04", "name": "黑龍 一張羅 吟釀300ML"},
+                {"key": "product05", "name": "武藏野 白 純米大吟釀 720ML"},
+                {"key": "product06", "name": "黑龍 大吟釀 720ML"},
+                {"key": "product07", "name": "豐之秋 雲州 梅酒500ML"},
+                {"key": "product08", "name": "鉾杉 柚子 濁り酒 720ML"},
+                {"key": "product09", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"}
+            ],
+            "GOGO FOODS": [
+                {"key": "product01", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
+                {"key": "product02", "name": "雨後之月 山田錦 特別純米酒 720ML"},
+                {"key": "product03", "name": "戰勝政宗 特別純米 720ML"},
+                {"key": "product04", "name": "寫樂 純米酒 720ML"},
+                {"key": "product05", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
+                {"key": "product06", "name": "勝山 昇龍 純米大吟釀 720ML"},
+                {"key": "product07", "name": "飛龍 純米大吟釀 720ML"},
+                {"key": "product08", "name": "磯自慢 一滴入魂 東条山田錦 大吟釀純米 720ML"}
+            ],
+            "真澄": [
+                {"key": "product01", "name": "獺祭 45 純米大吟釀 300ML"},
+                {"key": "product02", "name": "獺祭 三割九分 純米大吟釀 720ML"},
+                {"key": "product03", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product04", "name": "惣譽 特釀酒 (放題用) 1800ML"},
+                {"key": "product05", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ]
+        },
+	            "穴居酒屋(奧海城)": {
             "SAKE-X": [
                 {"key": "product01", "name": "豐之秋 GOLD LABEL 300ML"},
                 {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
