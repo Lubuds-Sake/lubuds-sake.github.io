@@ -11,7 +11,7 @@
         "ODDS(中環)": {
             "SAKE-X": [
                 {"key": "product01", "name": "釀造人九平次 別誂 純米大吟釀 720ML"},
-                {"key": "product02", "name": "銀河三 純米大吟釀720ML"},
+                {"key": "product02", "name": "銀河三 純米大吟釀 720ML"},
                 {"key": "product03", "name": "大嶺 二粒米 山田錦 原酒 720ML"},
                 {"key": "product04", "name": "黑龍 龍 大吟釀 1800ML"},
                 {"key": "product05", "name": "鳳凰美四 髭判 亀粋 純米大吟釀 1800ML"},
@@ -26,9 +26,9 @@
                 {"key": "product14", "name": "綾小町 綾梅 秘藏之梅酒 720ML"}
             ],
             "GOGO FOODS": [
-                {"key": "product01", "name": "如月 大吟釀 300ML"},
+                {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
                 {"key": "product02", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
-                {"key": "product03", "name": "六十餘洲 雫 大吟釀 720ML720ML"},
+                {"key": "product03", "name": "六十餘洲 雫 大吟釀 720ML"},
                 {"key": "product04", "name": "東洋美人 播州愛山 純米大吟釀 720ML"},
                 {"key": "product05", "name": "伯樂星 東条秋津 山田錦 純米大吟釀 720ML"},
                 {"key": "product06", "name": "勝山 昇龍 純米大吟釀 720ML"},
@@ -46,7 +46,7 @@
                 {"key": "product09", "name": "真澄 山花 純米大吟釀 1800ML"},
                 {"key": "product10", "name": "真澄 柚子酒 720ML"},
                 {"key": "product11", "name": "真澄 梅酒 720ML"},
-                {"key": "product12", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product12", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product13", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product14", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
@@ -67,8 +67,8 @@
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
-                {"key": "product02", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
-                {"key": "product03", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
+                {"key": "product02", "name": "勝山 緣 特別純米 (最少訂4支) 300ML"},
+                {"key": "product03", "name": "雅山流 如月 大吟釀 (最少訂4支)300ML"},
                 {"key": "product04", "name": "醉鯨 吟麗 純米吟釀 (最少訂4支) 300ML"},
                 {"key": "product05", "name": "戰勝政宗 特別純米 720ML"},
                 {"key": "product06", "name": "伯樂星 純米大吟釀 720ML"},
@@ -81,27 +81,27 @@
                 {"key": "product02", "name": "獺祭 二割三分 純米大吟釀 300ML"},
                 {"key": "product03", "name": "獺祭 三割九分 純米大吟釀 720ML"},
                 {"key": "product04", "name": "獺祭 二割三分 純米大吟釀 720ML"},
-                {"key": "product05", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product05", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product06", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product07", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
         },
         "鮨穴(銅鑼灣)": {
             "SAKE-X": [
-                {"key": "product01", "name": "青雲 久波奈 特別純米300ML"},
+                {"key": "product01", "name": "青雲 久波奈 特別純米 300ML"},
                 {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
                 {"key": "product03", "name": "月不見の池 吟釀 生貯藏 300ML"},
-                {"key": "product04", "name": "綾小町 純米大吟釀300ML"},
+                {"key": "product04", "name": "綾小町 純米大吟釀 300ML"},
                 {"key": "product05", "name": "黑龍 大吟釀 300ML"},
                 {"key": "product06", "name": "豐之秋 中取 大吟釀 300ML"},
-                {"key": "product07", "name": "富翁 吟麗 純米大吟釀720ML"},
+                {"key": "product07", "name": "富翁 吟麗 純米大吟釀 720ML"},
                 {"key": "product08", "name": "松乃井 袋しぼり 純米吟釀 720ML"},
-                {"key": "product09", "name": "富翁 山田錦 49 純米大吟釀720ML"},
+                {"key": "product09", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product10", "name": "鳳凰美田 朝日米 純米吟釀 720ML"},
-                {"key": "product11", "name": "黑龍 純米吟釀720ML"},
-                {"key": "product12", "name": "銀河 四 生酒 純米大吟釀720ML"},
+                {"key": "product11", "name": "黑龍 純米吟釀 720ML"},
+                {"key": "product12", "name": "銀河 四 生酒 純米大吟釀 720ML"},
                 {"key": "product13", "name": "shiro by Mineno Hakubaishuzo 峰乃白梅 純米大吟釀 720ML"},
-                {"key": "product14", "name": "武藏野 白 純米吟釀720ML"},
+                {"key": "product14", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product15", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product16", "name": "鉾杉 柚子 濁り酒 720ML"}
             ],
@@ -135,10 +135,10 @@
         },
         "鮨之(旺角)": {
             "SAKE-X": [
-                {"key": "product01", "name": "富翁 吟麗 純米大吟釀720ML"},
-                {"key": "product02", "name": "大嶺 三粒米720ML"},
-                {"key": "product03", "name": "童夢 純米大吟釀720ML"},
-                {"key": "product04", "name": "武藏野 白 純米大吟釀720ML"},
+                {"key": "product01", "name": "富翁 吟麗 純米大吟釀 720ML"},
+                {"key": "product02", "name": "大嶺 三粒米 720ML"},
+                {"key": "product03", "name": "童夢 純米大吟釀 720ML"},
+                {"key": "product04", "name": "武藏野 白 純米大吟釀 720ML"},
                 {"key": "product05", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product06", "name": "鉾杉 柚子 濁り酒 720ML"}
             ],
@@ -148,7 +148,7 @@
                 {"key": "product03", "name": "美丈夫 麗 吟釀(最少訂4支) 300ML"},
                 {"key": "product04", "name": "雅山流 如月 大吟釀 (最少訂4支) 300ML"},
                 {"key": "product05", "name": "戰勝政宗 特別純米 720ML"},
-                {"key": "product06", "name": "寫樂 純米吟釀720ML"},
+                {"key": "product06", "name": "寫樂 純米吟釀 720ML"},
                 {"key": "product07", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
                 {"key": "product08", "name": "伯樂星 東条秋津山田錦 純米大吟釀 720ML"},
                 {"key": "product09", "name": "東洋美人 播州愛山 純米大吟釀 720ML"}
@@ -163,7 +163,7 @@
                 {"key": "product07", "name": "獺祭 三割九分 純米大吟釀 720ML"},
                 {"key": "product08", "name": "風の森 秋津穂 657 無濾過 生原酒 純米 720ML"},
                 {"key": "product09", "name": "真澄 特撰 1800ML"},
-                {"key": "product10", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product10", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product11", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product12", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
                 {"key": "product13", "name": "出羽櫻 春之淡雪 本釀造 720ML"}
@@ -178,14 +178,14 @@
                 {"key": "product05", "name": "黑龍 大吟釀 720ML"},
                 {"key": "product06", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product07", "name": "武藏野 白 純米吟釀 720ML"},
-                {"key": "product08", "name": "武蔵野 琵琶細浪 酒粕燒酎500ML"},
-                {"key": "product09", "name": "豐之秋 雲州 梅酒500ML"},
+                {"key": "product08", "name": "武蔵野 琵琶細浪 酒粕燒酎 500ML"},
+                {"key": "product09", "name": "豐之秋 雲州 梅酒 500ML"},
                 {"key": "product10", "name": "鉾杉 柚子 濁り酒 720ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
                 {"key": "product02", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
-                {"key": "product03", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
+                {"key": "product03", "name": "雅山流 如月 大吟釀 (最少訂4支) 300ML"},
                 {"key": "product04", "name": "雨後之月 山田錦 特別純米 720ML"},
                 {"key": "product05", "name": "戰勝政宗 特別純米 720ML"},
                 {"key": "product06", "name": "飛龍 純米大吟釀 720ML"},
@@ -193,28 +193,28 @@
                 {"key": "product08", "name": "東洋美人 播州愛山 純米大吟釀 720ML"},
                 {"key": "product09", "name": "勝山 昇龍 純米大吟釀 720ML"},
                 {"key": "product10", "name": "磯自慢 一滴入魂 酒友 大吟釀純米 720ML"},
-                {"key": "product11", "name": "寫樂 純米酒720ML"}
+                {"key": "product11", "name": "寫樂 純米酒 720ML"}
             ],
             "真澄": [
                 {"key": "product01", "name": "獺祭 45 純米大吟釀 300ML"},
                 {"key": "product02", "name": "獺祭 三割九分 純米大吟釀 720ML"},
                 {"key": "product03", "name": "獺祭 二割三分 純米大吟釀 720ML"},
-                {"key": "product04", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product04", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product05", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
         },
         "穴寿司(元朗YOHO)": {
             "SAKE-X": [
-                {"key": "product01", "name": "青雲 久波奈 特別純米300ML"},
+                {"key": "product01", "name": "青雲 久波奈 特別純米 300ML"},
                 {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
                 {"key": "product03", "name": "梵 地球 純米大吟釀 500ML"},
                 {"key": "product04", "name": "黑龍 大吟釀 300ML"},
                 {"key": "product05", "name": "豐之秋 中取 大吟釀 300ML"},
-                {"key": "product06", "name": "童夢 純米大吟釀720ML"},
-                {"key": "product07", "name": "大嶺 三粒米720ML"},
-                {"key": "product08", "name": "富翁 山田錦 49 純米大吟釀720ML"},
-                {"key": "product09", "name": "武藏野 白 純米吟釀720ML"},
+                {"key": "product06", "name": "童夢 純米大吟釀 720ML"},
+                {"key": "product07", "name": "大嶺 三粒米 720ML"},
+                {"key": "product08", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
+                {"key": "product09", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"}
             ],
@@ -223,10 +223,10 @@
                 {"key": "product02", "name": "醉鯨 吟麗 純米吟釀 (最少訂4支) 300ML"},
                 {"key": "product03", "name": "雅山流 如月 大吟釀 300ML"},
                 {"key": "product04", "name": "戰勝政宗 特別純米 720ML"},
-                {"key": "product05", "name": "寫樂 純米吟釀720ML"},
+                {"key": "product05", "name": "寫樂 純米吟釀 720ML"},
                 {"key": "product06", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
-                {"key": "product07", "name": "東洋美人 大辛口 純米吟釀720ML"},
-                {"key": "product08", "name": "伯樂星 東条秋津山田錦 純米大吟釀720ML"},
+                {"key": "product07", "name": "東洋美人 大辛口 純米吟釀 720ML"},
+                {"key": "product08", "name": "伯樂星 東条秋津山田錦 純米大吟釀 720ML"},
                 {"key": "product09", "name": "勝山 昇龍 純米大吟釀 720ML"},
                 {"key": "product10", "name": "東洋美人 播州愛山 純米大吟釀 720ML"},
                 {"key": "product11", "name": "磯自慢 一滴入魂 酒友 大吟釀純米 720ML"},
@@ -248,12 +248,12 @@
                 {"key": "product02", "name": "月不見の池 吟釀 生貯藏 300ML"},
                 {"key": "product03", "name": "豐之秋 GOLD LABEL 純米吟釀 300ML"},
                 {"key": "product04", "name": "大嶺 三粒米 720ML"},
-                {"key": "product05", "name": "富翁 山田錦 49 純米大吟釀720ML"},
+                {"key": "product05", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product06", "name": "武藏野 琵琶細浪 本格米燒酎 20% 500ML"},
-                {"key": "product07", "name": "青雲 颯 神之穗 純米吟釀720ML"},
-                {"key": "product08", "name": "銀河 四 生酒 純米大吟釀720ML"},
+                {"key": "product07", "name": "青雲 颯 神之穗 純米吟釀 720ML"},
+                {"key": "product08", "name": "銀河 四 生酒 純米大吟釀 720ML"},
                 {"key": "product09", "name": "shiro by Mineno Hakubaishuzo 峰乃白梅 純米大吟釀 720ML"},
-                {"key": "product10", "name": "武藏野 白 純米吟釀720ML"},
+                {"key": "product10", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product11", "name": "豊の秋 雲州梅酒 500ML"},
                 {"key": "product12", "name": "鉾杉 柚子 濁り酒 720ML"},
                 {"key": "product13", "name": "十四代(請自行寫要求款式)"}
@@ -286,18 +286,18 @@
         },
         "穴藏(九龍塘)": {
             "SAKE-X": [
-                {"key": "product01", "name": "青雲 久波奈 特別純米300ML"},
+                {"key": "product01", "name": "青雲 久波奈 特別純米 300ML"},
                 {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
-                {"key": "product03", "name": "綾小町 純米大吟釀300ML"},
+                {"key": "product03", "name": "綾小町 純米大吟釀 300ML"},
                 {"key": "product04", "name": "豐之秋 中取 大吟釀 300ML"},
-                {"key": "product05", "name": "鉾杉 山廢 純米酒720ML"},
+                {"key": "product05", "name": "鉾杉 山廢 純米酒 720ML"},
                 {"key": "product06", "name": "松乃井 袋しぼり 純米吟釀 720ML"},
-                {"key": "product07", "name": "富翁 山田錦 49 純米大吟釀720ML"},
+                {"key": "product07", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product08", "name": "松乃井 特別純米 720ML"},
-                {"key": "product09", "name": "青雲 颯 神之穗720ML"},
-                {"key": "product10", "name": "月不見之池 純米吟釀720ML"},
+                {"key": "product09", "name": "青雲 颯 神之穗 720ML"},
+                {"key": "product10", "name": "月不見之池 純米吟釀 720ML"},
                 {"key": "product11", "name": "武藏野 純米大吟釀 720ML"},
-                {"key": "product12", "name": "武藏野 白 純米吟釀720ML"},
+                {"key": "product12", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product13", "name": "黑龍 特撰 吟釀 720ML"},
                 {"key": "product14", "name": "釀造人九平次 山田錦 純米大吟釀 720ML"},
                 {"key": "product15", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
@@ -312,7 +312,7 @@
                 {"key": "product03", "name": "獺祭 三割九分 純米大吟釀 720ML"},
                 {"key": "product04", "name": "真澄 山花 純米大吟釀 300ML"},
                 {"key": "product05", "name": "真澄 特撰 1800ML"},
-                {"key": "product06", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product06", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product07", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
@@ -330,7 +330,7 @@
                 {"key": "product09", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"}
             ],
             "GOGO FOODS": [
-                {"key": "product01", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
+                {"key": "product01", "name": "雅山流 如月 大吟釀 (最少訂4支) 300ML"},
                 {"key": "product02", "name": "雨後之月 山田錦 特別純米酒 720ML"},
                 {"key": "product03", "name": "戰勝政宗 特別純米 720ML"},
                 {"key": "product04", "name": "寫樂 純米酒 720ML"},
@@ -342,7 +342,7 @@
             "真澄": [
                 {"key": "product01", "name": "獺祭 45 純米大吟釀 300ML"},
                 {"key": "product02", "name": "獺祭 三割九分 純米大吟釀 720ML"},
-                {"key": "product03", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product03", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product04", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product05", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
@@ -362,7 +362,7 @@
 		{"key": "product11", "name": "銀河 四 生酒 純米大吟釀 720ML"},
 		{"key": "product12", "name": "SHIRO BY 峰乃白梅 純米大吟釀 720ML"},
 		{"key": "product13", "name": "十四代 (請告知款式)"},
-                {"key": "product14", "name": "豐之秋 雲州 梅酒500ML"},
+                {"key": "product14", "name": "豐之秋 雲州 梅酒 500ML"},
                 {"key": "product15", "name": "鉾杉 柚子 濁り酒 720ML"},
                 {"key": "product16", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"}
             ],
@@ -382,35 +382,35 @@
             "真澄": [
                 {"key": "product01", "name": "獺祭 45 純米大吟釀 300ML"},
                 {"key": "product02", "name": "獺祭 三割九分 純米大吟釀 720ML"},
-                {"key": "product03", "name": "真澄 辛口 GOLD (放題用)1800ML"},
+                {"key": "product03", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product04", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product05", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
             ]
         },
 		"天穴(尖沙咀)": {
             "SAKE-X": [
-                {"key": "product01", "name": "青雲 久波奈 特別純米300ML"},
+                {"key": "product01", "name": "青雲 久波奈 特別純米 300ML"},
                 {"key": "product02", "name": "富翁 富 純米大吟釀 300ML"},
                 {"key": "product03", "name": "十四代 特吟 純米大吟釀 300ML"},
-                {"key": "product04", "name": "莊の郷 花萌 吟釀300ML"},
+                {"key": "product04", "name": "莊の郷 花萌 吟釀 300ML"},
                 {"key": "product05", "name": "黑龍 大吟釀 300ML"},
                 {"key": "product06", "name": "豐之秋 中取 大吟釀 300ML"},
                 {"key": "product07", "name": "豐之秋 Gold Label 純米吟釀 300ML"},
                 {"key": "product08", "name": "酔園 幻の酒 純米吟釀720ML"},
-                {"key": "product09", "name": "青雲 颯 神之穗 純米吟釀720ML"},
-                {"key": "product10", "name": "富翁 山田錦 49 純米大吟釀720ML"},
+                {"key": "product09", "name": "青雲 颯 神之穗 純米吟釀 720ML"},
+                {"key": "product10", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product11", "name": "月不見の池 純米吟釀 720ML"},
                 {"key": "product12", "name": "黑龍 大吟釀720ML"},
-                {"key": "product13", "name": "銀河 四 生酒 純米大吟釀720ML"},
+                {"key": "product13", "name": "銀河 四 生酒 純米大吟釀 720ML"},
                 {"key": "product14", "name": "shiro by Mineno Hakubaishuzo 峰乃白梅 純米大吟釀 720ML"},
-                {"key": "product15", "name": "武藏野 純米大吟釀720ML"},
+                {"key": "product15", "name": "武藏野 純米大吟釀 720ML"},
                 {"key": "product16", "name": "童夢 純米大吟釀 720ML"},
-                {"key": "product17", "name": "豊の秋 純米大吟釀720ML"},
+                {"key": "product17", "name": "豊の秋 純米大吟釀 720ML"},
                 {"key": "product18", "name": "大嶺Ohmine 二粒米 720ML"},
                 {"key": "product19", "name": "黑龍 龍 大吟釀 720ML"},
                 {"key": "product20", "name": "大七 極上品 生酛 純米大吟釀 梅酒 720ML"},
                 {"key": "product21", "name": "梵 特撰 純米大吟釀 1800ML"},
-                {"key": "product22", "name": "朝日鷹 特別本釀造1800ML"},
+                {"key": "product22", "name": "朝日鷹 特別本釀造 1800ML"},
                 {"key": "product23", "name": "武藏野 蒸留王 乙燒酎 25% 720ML"},
                 {"key": "product24", "name": "十四代 (請告知款式) 720ML"},
                 {"key": "product25", "name": "十四代 (請告知款式) 1800ML"},
@@ -422,7 +422,7 @@
                 {"key": "product02", "name": "伯樂星 純米大吟釀 720ML"},
                 {"key": "product03", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
                 {"key": "product04", "name": "伯樂星 東条秋津山田錦 純米大吟釀 720ML"},
-                {"key": "product05", "name": "六十餘州 雫 大吟釀720ML"},
+                {"key": "product05", "name": "六十餘州 雫 大吟釀 720ML"},
                 {"key": "product06", "name": "東洋美人 壱番纏 純米大吟釀 720ML"},
                 {"key": "product07", "name": "勝山 昇龍 純米大吟釀 720ML"},
                 {"key": "product08", "name": "東洋美人 播州愛山 純米大吟釀 720ML"},
