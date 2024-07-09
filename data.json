@@ -10,7 +10,7 @@
     "products": {
         "ODDS(中環)": {
             "SAKE-X": [
-  {"key": "product01", "name": "請用GOOGLE FORM下單"},
+  {"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
@@ -40,7 +40,7 @@
         },
         "鮨千寿(將軍澳)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
@@ -65,7 +65,7 @@
         },
         "鮨穴(銅鑼灣)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -97,7 +97,7 @@
         },
         "鮨之(旺角)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -128,7 +128,7 @@
         },
 		"鳥十(大圍)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
@@ -154,7 +154,7 @@
         },
         "穴寿司(元朗YOHO)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -182,7 +182,7 @@
         },
         "穴居酒屋(沙田)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -212,7 +212,7 @@
         },
         "穴藏(九龍塘)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
@@ -230,7 +230,7 @@
         },
         "穴之酒販(將軍澳)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 (最少訂4支) 300ML"},
@@ -252,7 +252,7 @@
         },
 	"穴居酒屋(奧海城)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
@@ -277,7 +277,7 @@
         },
 		"天穴(尖沙咀)": {
             "SAKE-X": [
-{"key": "product01", "name": "請用GOOGLE FORM下單"},
+{"key": "product01", "name": "請用GOOGLE FORM下單"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "戰勝政宗 特別純米 720ML"},
