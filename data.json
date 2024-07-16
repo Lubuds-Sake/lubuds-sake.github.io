@@ -67,7 +67,7 @@
                 {"key": "product08", "name": "黑龍 一張羅 吟釀 限量版 720ML"},
                 {"key": "product09", "name": "銀河 四 純米大吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-                {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"}
+                {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"},
 	        {"key": "product12", "name": "男山 純米大吟釀 720ML"}
             ],
             "GOGO FOODS": [
@@ -92,7 +92,7 @@
             ],
  	    "SFA": [
                 {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
-                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"},
 	        {"key": "product03", "name": "梵 日本之翼 純米大吟釀 720ML"}
             ]
 	},
