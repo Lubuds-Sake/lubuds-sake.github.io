@@ -341,14 +341,13 @@
 		{"key": "product23", "name": "SHIRO BY 峰乃白梅 純米大吟釀 720ML"}
 	            ],
             "GOGO FOODS": [
-                {"key": "product01", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
-		{"key": "product02", "name": "勝山 緣 特別純米 300ML"}
-		{"key": "product03", "name": "戰勝政宗 特別純米 720ML"}
-		{"key": "product04", "name": "東洋美人 播州愛山 特吟 純米大吟釀 720ML"}
-		{"key": "product05", "name": "醉鯨 吟麗 純米吟釀 300ML"}
-		{"key": "product06", "name": "雅山流 如月 大吟釀 300ML"}
-		
-            ],
+                {"key": "product01", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
+		{"key": "product02", "name": "勝山 緣 特別純米 300ML"},
+		{"key": "product03", "name": "戰勝政宗 特別純米 720ML"},
+		{"key": "product04", "name": "東洋美人 播州愛山 特吟 純米大吟釀 720ML"},
+		{"key": "product05", "name": "醉鯨 吟麗 純米吟釀 300ML"},
+		{"key": "product06", "name": "雅山流 如月 大吟釀 300ML"},
+		            ],
             "真澄": [
                 {"key": "product01", "name": "獺祭 45 純米大吟釀 300ML"},
                 {"key": "product02", "name": "獺祭 二割三分 純米大吟釀 720ML"},
@@ -357,7 +356,7 @@
                 {"key": "product05", "name": "真澄 特撰 1800ML"},
                 {"key": "product06", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product07", "name": "惣譽 特釀酒 (放題用) 1800ML"},
-                {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+                {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
 		{"key": "product09", "name": "出羽櫻 雪女神 48% 純米大吟釀 300ML"}
             ],
 	 "SFA": [
