@@ -49,6 +49,10 @@
                 {"key": "product12", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product13", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product14", "name": "李白 峨眉山 純米酒 (放題用) 1800ML"}
+            ],
+	     "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
         "鮨千寿(將軍澳)": {
@@ -135,6 +139,10 @@
                 {"key": "product07", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
                 {"key": "product09", "name": "出羽櫻 櫻花 吟釀 720ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
         "鮨之(旺角)": {
@@ -171,6 +179,10 @@
                 {"key": "product11", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product12", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
                 {"key": "product13", "name": "出羽櫻 春之淡雪 本釀造 720ML"}
+            ],
+	  "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
 		"鳥十(大圍)": {
@@ -206,6 +218,10 @@
                 {"key": "product04", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product05", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	"SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
         "穴寿司(元朗YOHO)": {
@@ -244,6 +260,10 @@
                 {"key": "product05", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product06", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product07", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
         "穴居酒屋(沙田)": {
@@ -286,6 +306,10 @@
                 {"key": "product08", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product09", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product10", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
         "穴藏(九龍塘)": {
@@ -325,7 +349,11 @@
                 {"key": "product06", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product07", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
-            ]
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
+            ]		
         },
         "穴之酒販(將軍澳)": {
             "SAKE-X": [
@@ -355,6 +383,10 @@
                 {"key": "product03", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product04", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product05", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
 	"穴居酒屋(奧海城)": {
@@ -395,6 +427,10 @@
                 {"key": "product03", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product04", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product05", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         },
 		"天穴(尖沙咀)": {
@@ -448,6 +484,10 @@
                 {"key": "product04", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product05", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+            ],
+	 "SFA": [
+                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product02", "name": "神之河 麥燒酎 720ML"}
             ]
         }
     }
