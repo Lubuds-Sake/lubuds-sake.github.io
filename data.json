@@ -246,7 +246,8 @@
                 {"key": "product08", "name": "富翁 山田錦 49 純米大吟釀 720ML"},
                 {"key": "product09", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-                {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"}
+                {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"},
+		    {"key": "product12", "name": "莊之鄉 花萌 吟釀 300ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
