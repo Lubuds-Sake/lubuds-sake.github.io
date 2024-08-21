@@ -23,7 +23,9 @@
                 {"key": "product11", "name": "釀森 生酒 純米吟釀 300ML"},
                 {"key": "product12", "name": "豐之秋 中取 大吟釀 300ML"},
                 {"key": "product13", "name": "豐之秋 GOLD LABEL 純米吟釀 300ML"},
-                {"key": "product14", "name": "綾小町 綾梅 秘藏之梅酒 720ML"}
+                {"key": "product14", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
+		      {"key": "product15", "name": "童夢 純米大吟釀 720ML"},
+		      {"key": "product16", "name": "醉園 超辛口 純米酒 720ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
@@ -35,7 +37,8 @@
                 {"key": "product07", "name": "磯自慢 純米吟釀 1800ML"},
 		{"key": "product08", "name": "東洋美人 壱番纏 純米大吟釀 720ML"},
 		{"key": "product09", "name": "雨後之月 雄町 純米大吟釀 720ML"},
-		{"key": "product10", "name": "伯樂星 純米大吟釀 720ML"}
+		{"key": "product10", "name": "伯樂星 純米大吟釀 720ML"},
+		      {"key": "product11", "name": "戰勝政宗 特別純米 720ML"}
             ],
             "真澄": [
                 {"key": "product01", "name": "真澄 白妙 純米吟釀 300ML"},
