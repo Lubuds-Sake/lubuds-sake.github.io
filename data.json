@@ -20,12 +20,13 @@
                 {"key": "product08", "name": "十四代 超特撰 播州山田錦 純米大吟釀 720ML"},
                 {"key": "product09", "name": "十四代 本丸 特別本釀造 1800ML"},
                 {"key": "product10", "name": "十四代 別撰 諸白 播州山田錦 純米大吟釀 720ML"},
-                {"key": "product11", "name": "釀森 生酒 純米吟釀 300ML"},
-                {"key": "product12", "name": "豐之秋 中取 大吟釀 300ML"},
-                {"key": "product13", "name": "豐之秋 GOLD LABEL 純米吟釀 300ML"},
-                {"key": "product14", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-		      {"key": "product15", "name": "童夢 純米大吟釀 720ML"},
-		      {"key": "product16", "name": "醉園 超辛口 純米酒 720ML"}
+	        {"key": "product11", "name": "十四代 特吟 純米大吟釀 300ML"},
+                {"key": "product12", "name": "釀森 生酒 純米吟釀 300ML"},
+                {"key": "product13", "name": "豐之秋 中取 大吟釀 300ML"},
+                {"key": "product14", "name": "豐之秋 GOLD LABEL 純米吟釀 300ML"},
+                {"key": "product15", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
+		      {"key": "product16", "name": "童夢 純米大吟釀 720ML"},
+		      {"key": "product17", "name": "醉園 超辛口 純米酒 720ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
