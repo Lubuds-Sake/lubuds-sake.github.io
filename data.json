@@ -361,10 +361,9 @@
 		    {"key": "product09", "name": "風之森 ALPHA 1 純米 720ML"}
             ],
 	 "SFA": [
-                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
-                {"key": "product02", "name": "神之河 麥燒酎 720ML"},
-	        {"key": "product03", "name": "梵 地球 純米大吟釀 500ML"},
-		{"key": "product04", "name": "天斌 純米吟釀 720ML"}
+                {"key": "product01", "name": "神之河 麥燒酎 720ML"},
+	        {"key": "product02", "name": "梵 地球 純米大吟釀 500ML"},
+		{"key": "product03", "name": "天斌 純米吟釀 720ML"}
             ]		
         },
         "穴之酒販(將軍澳)": {
