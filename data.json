@@ -14,20 +14,15 @@
                 {"key": "product02", "name": "銀河三 純米大吟釀 720ML"},
                 {"key": "product03", "name": "大嶺 二粒米 山田錦 原酒 720ML"},
                 {"key": "product04", "name": "黑龍 龍 大吟釀 1800ML"},
-                {"key": "product05", "name": "大嶺 三粒米 山田錦 1800ML"},
-                {"key": "product06", "name": "十四代 酒未來 中取 純米吟釀 1800ML"},
-                {"key": "product07", "name": "十四代 超特撰 播州山田錦 純米大吟釀 720ML<暫停供應>"},
-                {"key": "product08", "name": "十四代 本丸 特別本釀造 1800ML"},
-                {"key": "product09", "name": "十四代 別撰 諸白 播州山田錦 純米大吟釀 720ML"},
-	        {"key": "product10", "name": "十四代 特吟 純米大吟釀 300ML"},
-                {"key": "product11", "name": "釀森 生酒 純米吟釀 300ML"},
-                {"key": "product12", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-		{"key": "product13", "name": "童夢 純米大吟釀 720ML"},
-		{"key": "product14", "name": "醉園 超辛口 純米酒 720ML"},
- 		 {"key": "product15", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"}
-
-
-
+                {"key": "product05", "name": "十四代 酒未來 中取 純米吟釀 1800ML"},
+                {"key": "product06", "name": "十四代 超特撰 播州山田錦 純米大吟釀 720ML<暫停供應>"},
+                {"key": "product07", "name": "十四代 本丸 特別本釀造 1800ML"},
+                {"key": "product08", "name": "十四代 別撰 諸白 播州山田錦 純米大吟釀 720ML"},
+	        {"key": "product09", "name": "十四代 特吟 純米大吟釀 300ML"},
+                {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
+		{"key": "product11", "name": "童夢 純米大吟釀 720ML"},
+		{"key": "product12", "name": "醉園 超辛口 純米酒 720ML"},
+ 		 {"key": "product13", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
