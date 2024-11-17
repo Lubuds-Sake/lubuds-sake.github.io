@@ -175,6 +175,21 @@
             ]
         },
         "鮨之(旺角)": {
+		            "酒精敏感": [
+                {"key": "product01", "name": "中埜 紅茶梅酒 720ML"},
+                {"key": "product02", "name": "中埜 無濾過 梅酒 720ML"},
+                {"key": "product03", "name": "梅仙人 香蕉酒 720ML"},
+                {"key": "product04", "name": "梅仙人 蜜瓜酒  720ML"},
+                {"key": "product05", "name": "檸檬果酒 720ML"},
+                {"key": "product06", "name": "中埜柚子酒  720ML"},
+ 		{"key": "product07", "name": "桃酒  720ML"},
+		{"key": "product08", "name": "蘋果酒   720ML"},
+		{"key": "product09", "name": "紫蘇酒  720ML"},
+		{"key": "product10", "name": "二十世紀梨酒   720ML"},
+		{"key": "product11", "name": "中埜柚子酒  300ML"},
+		{"key": "product12", "name": "紫蘇酒  360ML"},
+		{"key": "product13", "name": "二十世紀梨酒   360ML"}
+            ],
             "SAKE-X": [
                 {"key": "product01", "name": "富翁 吟麗 純米大吟釀 720ML"},
                 {"key": "product02", "name": "大嶺 三粒米 720ML"},
