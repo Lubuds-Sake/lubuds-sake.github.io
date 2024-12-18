@@ -58,7 +58,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+	 	{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         },
         "鮨千寿(將軍澳)": {
@@ -109,7 +112,10 @@
 		{"key": "product09", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product10", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product11", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product12", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product12", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		{"key": "product13", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product14", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product15", "name": "黑牛 純米酒  1800ML"}
             ]
 	},
         "鮨穴(銅鑼灣)": {
@@ -171,7 +177,10 @@
 		{"key": "product10", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product11", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product12", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product13", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product13", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		 {"key": "product14", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product15", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product16", "name": "黑牛 純米酒  1800ML"}
             ]
         },
         "鮨之(旺角)": {
@@ -219,7 +228,13 @@
 		{"key": "product06", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product07", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product08", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product09", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product09", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		{"key": "product10", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product11", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product12", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product13", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product14", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product15", "name": "黑牛 純米酒  1800ML"}
             ]
         },
 		"鳥十(大圍)": {
@@ -267,7 +282,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         },
         "穴寿司(元朗YOHO)": {
@@ -319,7 +337,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         },
         "穴居酒屋(沙田)": {
@@ -374,7 +395,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         },
         "穴藏(九龍塘)": {
@@ -420,7 +444,10 @@
 		{"key": "product07", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product08", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
 		{"key": "product09", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
-		{"key": "product10", "name": "梵 地球 純米大吟釀 500ML"}
+		{"key": "product10", "name": "梵 地球 純米大吟釀 500ML"},
+		 {"key": "product11", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product12", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product13", "name": "黑牛 純米酒  1800ML"}
             ]		
         },
         "穴之酒販(將軍澳)": {
@@ -515,7 +542,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         },
 		"天穴(尖沙咀)": {
@@ -581,7 +611,10 @@
 		{"key": "product08", "name": "獺祭 二割三分 純米大吟釀 300ML"},
 		{"key": "product09", "name": "獺祭 45 純米大吟釀 1800ML"},
 		{"key": "product10", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
+		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ]
         }
     }
