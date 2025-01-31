@@ -22,7 +22,8 @@
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
 		{"key": "product11", "name": "童夢 純米大吟釀 720ML"},
 		{"key": "product12", "name": "醉園 超辛口 純米酒 720ML"},
- 		 {"key": "product13", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"}
+ 		 {"key": "product13", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"},
+		{"key": "product14", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML"},
@@ -77,7 +78,8 @@
                 {"key": "product09", "name": "銀河 四 純米大吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"},
-	        {"key": "product12", "name": "男山 純米大吟釀 720ML"}
+	        {"key": "product12", "name": "男山 純米大吟釀 720ML"},
+		{"key": "product13", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
@@ -135,7 +137,8 @@
                 {"key": "product13", "name": "shiro by Mineno Hakubaishuzo 峰乃白梅 純米大吟釀 720ML"},
                 {"key": "product14", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product15", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-                {"key": "product16", "name": "鉾杉 柚子 濁り酒 720ML"}
+                {"key": "product16", "name": "鉾杉 柚子 濁り酒 720ML"},
+		{"key": "product17", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -203,7 +206,8 @@
                 {"key": "product01", "name": "釀森 生酒 純米吟釀 300ML"},
                 {"key": "product02", "name": "黑龍 大吟釀 300ML"},
                 {"key": "product03", "name": "童夢 純米大吟釀 720ML"},
-		 {"key": "product04", "name": "武蔵野 琵琶細浪 酒粕燒酎 500ML"}
+		 {"key": "product04", "name": "武蔵野 琵琶細浪 酒粕燒酎 500ML"},
+		    {"key": "product05", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -248,7 +252,8 @@
                 {"key": "product07", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product08", "name": "武蔵野 琵琶細浪 酒粕燒酎 500ML"},
                 {"key": "product09", "name": "豐之秋 雲州 梅酒 500ML"},
-                {"key": "product10", "name": "鉾杉 柚子 濁り酒 720ML"}
+                {"key": "product10", "name": "鉾杉 柚子 濁り酒 720ML"},
+		{"key": "product11", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "美丈夫 麗 吟釀 (最少訂4支) 300ML"},
@@ -301,7 +306,8 @@
                 {"key": "product09", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"},
-		    {"key": "product12", "name": "莊之鄉 花萌 吟釀 300ML"}
+		    {"key": "product12", "name": "莊之鄉 花萌 吟釀 300ML"},
+		    	{"key": "product13", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -357,7 +363,8 @@
                 {"key": "product10", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product11", "name": "豊の秋 雲州梅酒 500ML"},
                 {"key": "product12", "name": "鉾杉 柚子 濁り酒 720ML"},
-                {"key": "product13", "name": "十四代(請自行寫要求款式)"}
+                {"key": "product13", "name": "十四代(請自行寫要求款式)"},
+		{"key": "product14", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -413,7 +420,8 @@
                 {"key": "product08", "name": "鉾杉 柚子 濁り酒 720ML"},
 		{"key": "product09", "name": "SHIRO BY 峰乃白梅 純米大吟釀 720ML"},
 		{"key": "product10", "name": "莊之鄉 花萌 吟釀 300ML"},
-		{"key": "product11", "name": "黑龍 純米吟釀 720ML"}
+		{"key": "product11", "name": "黑龍 純米吟釀 720ML"},
+		{"key": "product12", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
 	            ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
@@ -460,7 +468,8 @@
                 {"key": "product06", "name": "黑龍 大吟釀 720ML"},
                 {"key": "product07", "name": "豐之秋 雲州 梅酒 500ML"},
                 {"key": "product08", "name": "鉾杉 柚子 濁り酒 720ML"},
-                {"key": "product09", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"}
+                {"key": "product09", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"},
+		{"key": "product10", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 (最少訂4支) 300ML"},
@@ -509,7 +518,8 @@
 		{"key": "product13", "name": "十四代 (請告知款式)"},
                 {"key": "product14", "name": "豐之秋 雲州 梅酒 500ML"},
                 {"key": "product15", "name": "鉾杉 柚子 濁り酒 720ML"},
-                {"key": "product16", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"}
+                {"key": "product16", "name": "武藏野 琵琶細浪 酒粕燒酎 500ML"},
+		{"key": "product17", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "雅山流 如月 大吟釀 300ML(最少訂4支)"},
@@ -576,7 +586,8 @@
                 {"key": "product24", "name": "十四代 (請告知款式) 720ML"},
                 {"key": "product25", "name": "十四代 (請告知款式) 1800ML"},
                 {"key": "product26", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
-                {"key": "product27", "name": "鉾杉 柚子 濁り酒 720ML"}
+                {"key": "product27", "name": "鉾杉 柚子 濁り酒 720ML"},
+		{"key": "product28", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "戰勝政宗 特別純米 720ML"},
