@@ -100,10 +100,13 @@
                 {"key": "product05", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product06", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product07", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
-		    {"key": "product08", "name": "真澄 柚子酒 720ML"}
+		{"key": "product08", "name": "真澄 柚子酒 720ML"},
+		{"key": "product09", "name": "真澄 白妙純米吟釀 300ML"},
+		{"key": "product10", "name": "風之森 ALPHA 1 無濾過 生原酒 720ML"},
+		{"key": "product11", "name": "惣譽 純米吟釀 720ML"}
             ],
  	    "SFA": [
-                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product01", "name": "出羽櫻 雪漫漫 純米大吟釀 720ML"},
                 {"key": "product02", "name": "神之河 麥燒酎 720ML"},
 	        {"key": "product03", "name": "梵 日本之翼 純米大吟釀 720ML"},
 		{"key": "product04", "name": "獺祭 45 純米大吟釀 720ML"},
@@ -117,7 +120,13 @@
 		{"key": "product12", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		{"key": "product13", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product14", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product15", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product15", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product16", "name": "南部美人 SOUTHERN BEAUTY 純米吟釀  300ML"},
+		{"key": "product17", "name": "龍勢 夜之帝王 Daybreak 純米  720ML"},
+		{"key": "product18", "name": "神藏 瑠璃 純米  720ML"},
+		{"key": "product19", "name": "泉橋 雄町 生酛 純米吟釀  720ML"},
+		{"key": "product20", "name": "出羽櫻 雪女神 48% 純米大吟釀  300ML"}
+
             ]
 	},
         "鮨穴(銅鑼灣)": {
