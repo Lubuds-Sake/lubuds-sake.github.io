@@ -6,7 +6,7 @@
         "穴居酒屋(沙田)", "穴藏(九龍塘)", "穴之酒販(將軍澳)", "穴居酒屋(奧海城)",
         "天穴(尖沙咀)"
     ],
-    "suppliers": ["酒精敏感","SAKE-X", "GOGO FOODS", "真澄", "SFA"],
+    "suppliers": ["酒精敏感","SAKE-X", "GOGO FOODS", "真澄", "SFA","SAKE HUNDRED"],
     "products": {
         "ODDS(中環)": {
             "SAKE-X": [
@@ -614,6 +614,11 @@
                 {"key": "product10", "name": "飛龍 純米大吟釀 1800ML"},
                 {"key": "product11", "name": "雨後之月 雄町 純米大吟釀 720ML"},
                 {"key": "product12", "name": "作 槐山一滴水 純米大吟釀 750ML"}
+            ],
+            "SAKE HUNDRED": [
+                {"key": "product01", "name": "SAKE HUNDRED 百光別誂 720ML"},
+		{"key": "product02", "name": "SAKE HUNDRED 深星 720ML"}
+
             ],
             "真澄": [
                 {"key": "product01", "name": "獺祭 二割三分 純米大吟釀 300ML"},
