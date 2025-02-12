@@ -593,11 +593,13 @@
                 {"key": "product21", "name": "梵 特撰 純米大吟釀 1800ML"},
                 {"key": "product22", "name": "朝日鷹 特別本釀造 1800ML"},
                 {"key": "product23", "name": "武藏野 蒸留王 乙燒酎 25% 720ML"},
-                {"key": "product24", "name": "十四代 (請告知款式) 720ML"},
-                {"key": "product25", "name": "十四代 (請告知款式) 1800ML"},
+                {"key": "product24", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"},
+                {"key": "product25", "name": "十四代 十四代 超特撰 播州山田錦 純米大吟釀 720ML"},
                 {"key": "product26", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product27", "name": "鉾杉 柚子 濁り酒 720ML"},
-		{"key": "product28", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
+		{"key": "product28", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
+	{"key": "product29", "name": "十四代 本丸 特別本釀造 1800ML"},
+	{"key": "product30", "name": "十四代 中取り 赤磐雄町 上諸白 純米大吟釀 1800ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "戰勝政宗 特別純米 720ML"},
@@ -619,7 +621,9 @@
                 {"key": "product03", "name": "真澄 特撰 1800ML"},
                 {"key": "product04", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product05", "name": "惣譽 特釀酒 (放題用) 1800ML"},
-                {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+                {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
+		{"key": "product07", "name": "風之森 ALPHA 1 純米 720ML"}
+
             ],
 	 "SFA": [
                 {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
@@ -635,7 +639,14 @@
 		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product15", "name": "出羽櫻 雪女神 48% 純米大吟釀 300ML"},
+		{"key": "product16", "name": "夜之帝王 FOREVER 特別純米 720ML"},
+		{"key": "product17", "name": "神藏 七曜50 純米大吟釀 720ML"},
+		{"key": "product18", "name": "七田 雄町50 純米吟釀 720ML"},
+		{"key": "product19", "name": "天賦 純米吟釀 720ML"},
+		{"key": "product20", "name": "出羽櫻 雪漫漫 五年冰點下熟成 大吟釀 720ML"},
+		{"key": "product21", "name": "吉兆寶山 芋燒酎 720ML"}
             ]
         }
     }
