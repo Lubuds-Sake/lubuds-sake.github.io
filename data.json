@@ -48,6 +48,9 @@
                 {"key": "product09", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product10", "name": "李白 峨眉山 純米酒 (放題用) 1800ML"}
             ],
+            "ENOTECA": [
+                {"key": "product01", "name": "九平次 黑田庄 2018 純米大吟釀 750MLL"}
+            ],
 	     "SFA": [
 		{"key": "product01", "name": "獺祭 BLUE TYPE 23 純米大吟釀 720ML"},
 		{"key": "product02", "name": "獺祭 BLUE TYPE 35 純米大吟釀 720ML"},
