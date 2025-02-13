@@ -65,7 +65,8 @@
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
             ],
        "ENOTECA": [
-                {"key": "product01", "name": "九平次 黑田庄 2018 純米大吟釀 750MLL"}
+                {"key": "product01", "name": "九平次 黑田庄 2018 純米大吟釀 750ML"},
+ 		{"key": "product02", "name": "HOUSE RED WINE 7550ML"}	
             ]
         },
         "鮨千寿(將軍澳)": {
