@@ -63,9 +63,10 @@
 	 	{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
-	{"key": "product15", "name": "伯樂星 純米大吟釀  720ML"},
-	{"key": "product16", "name": "伯樂星 東条 純米大吟釀  720ML"},
-	{"key": "product17", "name": "伯樂星 純米大吟釀  1800ML"}
+		{"key": "product15", "name": "伯樂星 純米大吟釀  720ML"},
+		{"key": "product16", "name": "伯樂星 東条 純米大吟釀  720ML"},
+		{"key": "product17", "name": "伯樂星 純米大吟釀  1800ML"},
+		{"key": "product18", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ],
        "ENOTECA": [
                 {"key": "product01", "name": "九平次 黑田庄 2018 純米大吟釀 750ML"},
@@ -133,7 +134,8 @@
 		{"key": "product18", "name": "神藏 瑠璃 純米  720ML"},
 		{"key": "product19", "name": "泉橋 雄町 生酛 純米吟釀  720ML"},
 		{"key": "product20", "name": "出羽櫻 雪女神 48% 純米大吟釀  300ML"},
-		{"key": "product21", "name": "天賦 純米吟釀  720ML"}		
+		{"key": "product21", "name": "天賦 純米吟釀  720ML"},
+		{"key": "product22", "name": "作 雅乃智 中取 純米大吟釀 750ML"}	
 
             ]
 	},
@@ -200,7 +202,8 @@
 		{"key": "product13", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		 {"key": "product14", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product15", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product16", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product16", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product17", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
         "鮨之(旺角)": {
@@ -255,7 +258,8 @@
 		{"key": "product12", "name": "黑牛 純米酒  1800ML"},
 		{"key": "product13", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product14", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product15", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product15", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product16", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
 		"鳥十(大圍)": {
@@ -307,7 +311,8 @@
 		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		{"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
         "穴寿司(元朗YOHO)": {
@@ -363,7 +368,8 @@
 		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
         "穴居酒屋(沙田)": {
@@ -422,7 +428,8 @@
 		{"key": "product11", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
 		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product14", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
         "穴藏(九龍塘)": {
@@ -472,7 +479,8 @@
 		{"key": "product10", "name": "梵 地球 純米大吟釀 500ML"},
 		 {"key": "product11", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product12", "name": "刈穗 六舟 吟釀  1800ML"},
-		{"key": "product13", "name": "黑牛 純米酒  1800ML"}
+		{"key": "product13", "name": "黑牛 純米酒  1800ML"},
+		{"key": "product14", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]		
         },
         "穴之酒販(將軍澳)": {
@@ -515,7 +523,8 @@
 		{"key": "product07", "name": "神之河 麥燒酎 720ML"},
 		{"key": "product08", "name": "出羽櫻 雪漫漫 純米大吟釀 720ML"},
 		{"key": "product09", "name": "獺祭 三割九分 純米大吟釀 1800ML"},
-		{"key": "product10", "name": "獺祭 二割三分 純米大吟釀 1800ML"}
+		{"key": "product10", "name": "獺祭 二割三分 純米大吟釀 1800ML"},
+		{"key": "product11", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
 	"穴居酒屋(奧海城)": {
@@ -579,7 +588,8 @@
 		{"key": "product15", "name": "南部美人 SOUTHERN BEAUTY 純米吟釀 300ML"},
 		{"key": "product16", "name": "出羽櫻 雪女神 48% 純米大吟釀 300ML"},
 		{"key": "product17", "name": "神藏 瑠璃 純米 720ML"},
-		{"key": "product18", "name": "天賦 純米吟釀  720ML"}
+		{"key": "product18", "name": "天賦 純米吟釀  720ML"},
+		{"key": "product19", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
             ]
         },
 		"天穴(尖沙咀)": {
@@ -665,7 +675,9 @@
 		{"key": "product18", "name": "七田 雄町50 純米吟釀 720ML"},
 		{"key": "product19", "name": "天賦 純米吟釀 720ML"},
 		{"key": "product20", "name": "出羽櫻 雪漫漫 五年冰點下熟成 大吟釀 720ML"},
-		{"key": "product21", "name": "吉兆寶山 芋燒酎 720ML"}
+		{"key": "product21", "name": "吉兆寶山 芋燒酎 720ML"},
+		{"key": "product22", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
+
             ]
         }
     }
