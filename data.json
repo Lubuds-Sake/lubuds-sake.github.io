@@ -297,7 +297,7 @@
                 {"key": "product04", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product05", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product06", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
-		{"key": "product07", "name": "真澄 白妙 純米吟釀 720ML"},
+		{"key": "product07", "name": "真澄 白妙 純米吟釀 300ML"},
 		{"key": "product08", "name": "風之森 ALPHA 1 無濾過 生原酒 720ML"},
 		{"key": "product09", "name": "真澄 山花 純米大吟釀 720ML"}
 		    
@@ -319,7 +319,7 @@
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
 		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
 		{"key": "product16", "name": "南部美人 SOUTHERN 特別純米 300ML"},
-		{"key": "product17", "name": "出羽櫻 雪女神 48% 純米大吟釀 720ML"},
+		{"key": "product17", "name": "出羽櫻 雪女神 48% 純米大吟釀 300ML"},
 		{"key": "product18", "name": "神藏 瑠璃 純米 720ML"},
 		{"key": "product19", "name": "南部美人 天惠 酒未來 純米大吟釀 720ML"}
             ]
