@@ -186,6 +186,10 @@
                 {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
                 {"key": "product09", "name": "出羽櫻 櫻花 吟釀 720ML"}
             ],
+	 "SAKE HUNDRED": [
+                {"key": "product01", "name": "SAKE HUNDRED 百光別誂 純米大吟釀720ML"},
+		{"key": "product02", "name": "SAKE HUNDRED 弐光 720ML"}
+            ],
 	 "SFA": [
                 {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
                 {"key": "product02", "name": "天賦 純米吟釀 720ML"},
