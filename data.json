@@ -204,7 +204,11 @@
 		{"key": "product15", "name": "刈穗 六舟 吟釀  1800ML"},
 		{"key": "product16", "name": "黑牛 純米酒  1800ML"},
 		{"key": "product17", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
-		{"key": "product18", "name": "久保田 千寿 吟釀 (LADIES NIGHT用) 1800ML"}
+		{"key": "product18", "name": "久保田 千寿 吟釀 (LADIES NIGHT用) 1800ML"},
+		{"key": "product19", "name": "出羽櫻 雪女神 純米大吟釀 300ML"},
+		{"key": "product20", "name": "龍勢 夜之帝王 Forever 720ML"},
+		{"key": "product22", "name": "泉橋 黑蜻蜓 生酛 純米 720ML"},
+		{"key": "product23", "name": "神藏 瑠璃 純米 720ML"}
             ]
         },
         "鮨之(旺角)": {
