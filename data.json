@@ -184,7 +184,11 @@
                 {"key": "product06", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product07", "name": "惣譽 特釀酒 (放題用) 1800ML"},
                 {"key": "product08", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
-                {"key": "product09", "name": "出羽櫻 櫻花 吟釀 720ML"}
+                {"key": "product09", "name": "出羽櫻 櫻花 吟釀 720ML"},
+		{"key": "product10", "name": "真澄 真朱 純米吟釀 300ML"},
+		{"key": "product11", "name": "真澄 酒粕燒酎 720ML"},
+		{"key": "product12", "name": "出羽櫻 48% 雪女神 純米大吟釀 300ML"},
+		{"key": "product13", "name": "真澄 山花 純米大吟釀 720ML"}
             ],
 	 "SAKE HUNDRED": [
                 {"key": "product01", "name": "SAKE HUNDRED 百光別誂 純米大吟釀720ML"},
@@ -212,7 +216,8 @@
 		{"key": "product19", "name": "出羽櫻 雪女神 純米大吟釀 300ML"},
 		{"key": "product20", "name": "龍勢 夜之帝王 Forever 720ML"},
 		{"key": "product22", "name": "泉橋 黑蜻蜓 生酛 純米 720ML"},
-		{"key": "product23", "name": "神藏 瑠璃 純米 720ML"}
+		{"key": "product23", "name": "神藏 瑠璃 純米 720ML"},
+		{"key": "product24", "name": "南部美人 SOUTHERN BEAUTY 純米吟釀 300ML"}
             ]
         },
         "鮨之(旺角)": {
