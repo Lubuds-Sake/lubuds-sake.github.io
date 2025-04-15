@@ -477,8 +477,7 @@
 		{"key": "product09", "name": "風之森 ALPHA 1 純米 720ML"},
 		{"key": "product10", "name": "真澄 白妙 純米吟釀 300ML"},
 		{"key": "product11", "name": "風之森 PETIT 無濾過生原酒 375ML"},
-		{"key": "product12", "name": "真澄 山花 純米大吟釀 720ML"}
- 			]	
+		{"key": "product12", "name": "真澄 山花 純米大吟釀 720ML"}	
 		    ],
 		 "SFA": [
                 {"key": "product01", "name": "獺祭 45 純米大吟釀 720ML"},
@@ -498,12 +497,11 @@
 		{"key": "product15", "name": "神藏 瑠璃 純米 720ML"},
 		{"key": "product16", "name": "伯樂星 特別純米 720ML"},
 		{"key": "product17", "name": "天賦 純米吟釀 720ML"}
-            ]		
+            ],	
 	 "SAKE HUNDRED": [
                 {"key": "product01", "name": "SAKE HUNDRED 百光別誂 純米大吟釀720ML"},
 		{"key": "product02", "name": "SAKE HUNDRED 弐光 720ML"}
 			 ]	
-		    ],
         },
         "穴之酒販(將軍澳)": {
             "SAKE-X": [
