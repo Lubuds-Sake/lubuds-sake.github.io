@@ -173,6 +173,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // 構建訊息，加入日期和空行
                 let message = `${restaurantSelect.value} 採購清單\n`;
                 message += `日期: ${dateString}\n`;
+                message += `\n`; // 在日期後添加空行
                 message += `供應商 ${supplierSelect.value}:\n`;
                 message += `\n`; // 在供應商後添加空行
 
