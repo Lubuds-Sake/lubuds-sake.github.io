@@ -1,4 +1,79 @@
-{
+import json
+from datetime import datetime
+import pytz
+
+# 從檔案載入 JSON 數據
+with open('sake_data.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+# 模擬用戶輸入（可替換為實際輸入，例如從前端表單）
+user_input = {
+    "restaurant": "穴藏(九龍塘)",
+    "supplier": "SFA",
+    "items": [
+        {"name": "梵 地球 純米大吟釀 500ML", "quantity": 4},
+        {"name": "作 雅乃智 中取 純米大吟釀 750ML", "quantity": 6},
+        {"name": "神藏 瑠璃 純米 720ML", "quantity": 6},
+        {"name": "伯樂星 特別純米 720ML", "quantity": 6},
+        {"name": "天賦 純米吟釀 720ML", "quantity": 6},
+        {"name": "出羽櫻 雪女神 純米大吟釀 300ML", "quantity": 8}
+    ]
+}
+
+# 驗證酒款是否在 JSON 數據中
+def validate_sake(sake_name, products, restaurant, supplier):
+    for item in products.get(restaurant, {}).get(supplier, []):
+        if item["name"] == sake_name:
+            return True
+    return False
+
+# 生成採購清單訊息
+def create_procurement_list(restaurant, supplier, selections, date, time):
+    message = f"{restaurant} 採購清單\n供應商 {supplier}:\n日期: {date}\n時間: {time}\n\n"
+    for item in selections:
+        message += f"{item['name']}: {item['quantity']}\n"
+    return message
+
+# 主程式
+def main():
+    restaurant = user_input["restaurant"]
+    supplier = user_input["supplier"]
+    items = user_input["items"]
+
+    # 獲取當前香港時間
+    hk_tz = pytz.timezone('Asia/Hong_Kong')
+    current_time = datetime.now(hk_tz)
+    date = current_time.strftime('%Y/%m/%d')
+    time = current_time.strftime('%H:%M')
+
+    # 驗證所有酒款
+    invalid_items = []
+    for item in items:
+        if not validate_sake(item["name"], data["products"], restaurant, supplier):
+            invalid_items.append(item["name"])
+
+    if invalid_items:
+        print("以下酒款不在清單中，請檢查：")
+        for item in invalid_items:
+            print(f"- {item}")
+        return
+
+    # 生成採購清單
+    message = create_procurement_list(restaurant, supplier, items, date, time)
+    print(message)
+
+    # 模擬發送到 WhatsApp
+    print(f"將訊息發送到 WhatsApp 號碼: +{data['whatsappNumber']}")
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+{	
     "whatsappNumber": "85293873892",
     "restaurants": [
         "ODDS(中環)", "鮨千寿(將軍澳)", "鮨穴(銅鑼灣)",
