@@ -162,22 +162,19 @@ document.addEventListener('DOMContentLoaded', function() {
                 const form = document.getElementById('procurementForm');
                 const formData = new FormData(form);
 
-                // 獲取當前日期和時間
+                // 獲取當前日期
                 const now = new Date();
-                const dateTimeString = now.toLocaleString('zh-HK', {
+                const dateString = now.toLocaleString('zh-HK', {
                     year: 'numeric',
                     month: '2-digit',
-                    day: '2-digit',
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    second: '2-digit',
-                    hour12: false
+                    day: '2-digit'
                 });
 
-                // 構建訊息，加入日期和時間
+                // 構建訊息，加入日期和空行
                 let message = `${restaurantSelect.value} 採購清單\n`;
-                message += `日期時間: ${dateTimeString}\n`;
+                message += `日期: ${dateString}\n`;
                 message += `供應商 ${supplierSelect.value}:\n`;
+                message += `\n`; // 在供應商後添加空行
 
                 formData.forEach((value, key) => {
                     if (value > 0) { // 只添加數量大於 0 的項目
