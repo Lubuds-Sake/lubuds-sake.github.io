@@ -2,6 +2,29 @@ import json
 from datetime import datetime
 import pytz
 
+hk_tz = pytz.timezone('Asia/Hong_Kong')
+current_time = datetime.now(hk_tz)
+date = current_time.strftime('%Y/%m/%d')
+time = current_time.strftime('%H:%M')
+
+def create_procurement_list(restaurant, supplier, selections, date, time):
+    message = f"{restaurant} 採購清單\n供應商 {supplier}:\n日期: {date}\n時間: {time}\n\n"
+    for item in selections:
+        message += f"{item['name']}: {item['quantity']}\n"
+    return message
+
+message = create_procurement_list(restaurant, supplier, items, date, time)
+
+def validate_sake(sake_name, products, restaurant, supplier):
+    for item in products.get(restaurant, {}).get(supplier, []):
+        if item["name"] == sake_name:
+            return True
+    return False
+
+restaurant = user_input["restaurant"]
+supplier = user_input["supplier"]
+items = user_input["items"]
+
 
 {	
     "whatsappNumber": "85293873892",
