@@ -511,7 +511,8 @@
 		{"key": "product14", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
 		{"key": "product15", "name": "神藏 瑠璃 純米 720ML"},
 		{"key": "product16", "name": "伯樂星 特別純米 720ML"},
-		{"key": "product17", "name": "天賦 純米吟釀 720ML"}
+		{"key": "product17", "name": "天賦 純米吟釀 720ML"},
+		{"key": "product18", "name": "出羽櫻 雪女神 純米大吟釀 300ML"}
             ],	
 	 "SAKE HUNDRED": [
                 {"key": "product01", "name": "SAKE HUNDRED 百光別誂 純米大吟釀720ML"},
