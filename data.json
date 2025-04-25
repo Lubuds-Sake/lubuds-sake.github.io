@@ -330,7 +330,7 @@
             "SAKE-X": [
                 {"key": "product01", "name": "青雲 久波奈 特別純米 300ML"},
                 {"key": "product02", "name": "富翁 翁 純米吟釀 300ML"},
-                {"key": "product03", "name": "梵 地球 純米大吟釀 500ML"},
+		{"key": "product03", "name": "作 雅乃智 中取 純米大吟釀 750ML"},	
                 {"key": "product04", "name": "黑龍 大吟釀 300ML"},
                 {"key": "product05", "name": "豐之秋 中取 大吟釀 300ML"},
                 {"key": "product06", "name": "童夢 純米大吟釀 720ML"},
@@ -339,8 +339,7 @@
                 {"key": "product09", "name": "武藏野 白 純米吟釀 720ML"},
                 {"key": "product10", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product11", "name": "鉾杉 柚子 濁り酒 720ML"},
-	 	{"key": "product12", "name": "莊之鄉 花萌 吟釀 300ML"},
-		{"key": "product13", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
+	 	{"key": "product12", "name": "莊之鄉 花萌 吟釀 300ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "勝山 緣 特別純米(最少訂4支) 300ML"},
@@ -380,7 +379,8 @@
 		 {"key": "product12", "name": "英勲 京之珀 本釀造 1800ML"},
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
-		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"}
+		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
+		 {"key": "product16", "name": "梵 地球 純米大吟釀 500ML"}
             ]
         },
         "穴居酒屋(沙田)": {
