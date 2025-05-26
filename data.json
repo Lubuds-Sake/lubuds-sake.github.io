@@ -363,7 +363,11 @@
                 {"key": "product04", "name": "真澄 特撰 1800ML"},
                 {"key": "product05", "name": "真澄 辛口 GOLD (放題用) 1800ML"},
                 {"key": "product06", "name": "惣譽 特釀酒 (放題用) 1800ML"},
-                {"key": "product07", "name": "李白 峨眉山 純米酒(放題用) 1800ML"}
+                {"key": "product07", "name": "李白 峨眉山 純米酒(放題用) 1800ML"},
+		{"key": "product08", "name": "真澄 白妙 純米吟釀 300ML<新>"},
+		{"key": "product09", "name": "風之森 ALPHA 1 純米酒 720ML<新>"},
+		{"key": "product10", "name": "風之森 PETIT 純米酒 375ML<新>"},
+		{"key": "product11", "name": "真澄 山花 純米大吟釀 720ML<新>"}
             ],
 	 "SFA": [
                 {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
@@ -381,7 +385,11 @@
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
 		{"key": "product15", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
-		 {"key": "product16", "name": "梵 地球 純米大吟釀 500ML"}
+		 {"key": "product16", "name": "梵 地球 純米大吟釀 500ML"},
+		 {"key": "product17", "name": "出羽櫻 雪女神 純米大吟釀 300ML <新>"},
+		 {"key": "product18", "name": "夜之帝王 DAY BREAK 特別純米 720ML <新>"},
+		 {"key": "product19", "name": "神藏 瑠璃 純米 720ML <新>"},
+		 {"key": "product20", "name": "天賦 純米吟釀 720ML <新>"}
             ]
         },
         "穴居酒屋(沙田)": {
