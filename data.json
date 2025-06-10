@@ -684,12 +684,11 @@
                 {"key": "product22", "name": "朝日鷹 特別本釀造 1800ML"},
                 {"key": "product23", "name": "武藏野 蒸留王 乙燒酎 25% 720ML"},
                 {"key": "product24", "name": "十四代 超極 山田錦 中取り 純米大吟釀 720ML"},
-                {"key": "product25", "name": "十四代 十四代 超特撰 播州山田錦 純米大吟釀 720ML"},
+                {"key": "product25", "name": "十四代 中取り 赤磐雄町 上諸白 純米大吟釀 1800ML"},
                 {"key": "product26", "name": "綾小町 綾梅 秘藏之梅酒 720ML"},
                 {"key": "product27", "name": "鉾杉 柚子 濁り酒 720ML"},
 		{"key": "product28", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
-	{"key": "product29", "name": "十四代 本丸 特別本釀造 1800ML"},
-	{"key": "product30", "name": "十四代 中取り 赤磐雄町 上諸白 純米大吟釀 1800ML"}
+	{"key": "product29", "name": "十四代 本丸 特別本釀造 1800ML"}
             ],
             "GOGO FOODS": [
                 {"key": "product01", "name": "戰勝政宗 特別純米 720ML"},
