@@ -373,7 +373,7 @@
 		{"key": "product11", "name": "真澄 山花 純米大吟釀 720ML<新>"}
             ],
 	 "SFA": [
-                {"key": "product01", "name": "出羽櫻 雪漫 純米大吟釀 720ML"},
+                {"key": "product01", "name": "天賦 純米吟釀 720ML <新>"},
                 {"key": "product02", "name": "神之河 麥燒酎 720ML"},
 		{"key": "product03", "name": "獺祭 45 純米大吟釀 720ML"},
 		{"key": "product04", "name": "獺祭 45 純米大吟釀 300ML"},
@@ -391,8 +391,7 @@
 		 {"key": "product16", "name": "梵 地球 純米大吟釀 500ML"},
 		 {"key": "product17", "name": "出羽櫻 雪女神 純米大吟釀 300ML <新>"},
 		 {"key": "product18", "name": "夜之帝王 DAY BREAK 特別純米 720ML <新>"},
-		 {"key": "product19", "name": "神藏 瑠璃 純米 720ML <新>"},
-		 {"key": "product20", "name": "天賦 純米吟釀 720ML <新>"}
+		 {"key": "product19", "name": "神藏 瑠璃 純米 720ML <新>"}
             ]
         },
         "穴居酒屋(沙田)": {
