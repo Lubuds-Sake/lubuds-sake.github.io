@@ -65,15 +65,25 @@
 		{"key": "product13", "name": "刈穗 六舟 吟釀  1800ML"},
 		{"key": "product14", "name": "黑牛 純米酒  1800ML"},
 		{"key": "product15", "name": "伯樂星 純米大吟釀  720ML"},
-		{"key": "product16", "name": "伯樂星 東条 純米大吟釀  720ML"},
+		{"key": "product16", "name": "伯樂星 東条秋津 29 純米大吟釀  720ML"},
 		{"key": "product17", "name": "伯樂星 純米大吟釀  1800ML"},
 		{"key": "product18", "name": "作 雅乃智 中取 純米大吟釀 750ML"},
 		{"key": "product19", "name": "久保田 千寿 吟釀 (LADIES NIGHT用) 1800ML"},
-		{"key": "product20", "name": "獺祭 45 純米大吟釀(LADIES NIGHT用) 1800ML"}
+		{"key": "product20", "name": "獺祭 45 純米大吟釀(LADIES NIGHT用) 1800ML"},
+		{"key": "product21", "name": "神藏 清澄 純米 <新> 720ML"},
+		{"key": "product22", "name": "梵 日本之翼 純米大吟釀 <新> 720ML"},
+		{"key": "product23", "name": "泉橋 黑蜻蜓 生酛 純米 <新> 720ML"},
+		{"key": "product24", "name": "黑牛 特製 柚子酒 <新> 720ML"},
+		{"key": "product25", "name": "八海山 清酒仕込 梅酒 <新> 720ML"}
             ],
        "ENOTECA": [
                 {"key": "product01", "name": "九平次 黑田庄 2018 純米大吟釀 750ML"},
  		{"key": "product02", "name": "HOUSE RED WINE 7550ML"}	
+            ]
+        },
+  "SAKE HUNDRED": [
+                {"key": "product01", "name": "SAKE HUNDRED 百光 別誂 純米大吟釀 750ML"},
+ 		{"key": "product02", "name": "SAKE HUNDRED 深星 750ML"}	
             ]
         },
         "鮨千寿(將軍澳)": {
