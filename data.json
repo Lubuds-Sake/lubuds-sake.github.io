@@ -85,6 +85,19 @@
   "SAKE HUNDRED": [
                 {"key": "product01", "name": "SAKE HUNDRED 百光 別誂 純米大吟釀 720ML"},
  		{"key": "product02", "name": "SAKE HUNDRED 深星 750ML"}	
+            ],
+	"七式": [
+                {"key": "product01", "name": "Coke Zero pack for 330ml"},
+ 				{"key": "product02", "name": "Coke pack for 330ml"},
+		        {"key": "product03", "name": "Sprite pack for 330ml"},
+ 				{"key": "product04", "name": "玉泉 Ginger Ale pack for 330ml"},	
+		        {"key": "product05", "name": "玉泉 Soda Water pack for 330ml"},
+ 				{"key": "product06", "name": "玉泉 Tonic Water pack for 200ml"},
+		        {"key": "product07", "name": "玉泉 Spicy Ginger Beer soda pack for 200ml"},
+ 				{"key": "product08", "name": "Asahi Bottle Beer box for 330ml"},
+		        {"key": "product09", "name": "Stella Bottle Beer box for 330ml "},
+ 				{"key": "product10", "name": "Guinness Draught pack for 558ml"}	
+	
             ]
         },
         "鮨千寿(將軍澳)": {
